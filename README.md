@@ -5,5 +5,9 @@ This README contains all notes taken by [Benji Leboe](https://github.com/Benji-L
 
 ### Quicklinks
 
-- [Repositories](https://github.com/Benji-Leboe?tab=repositories)
+* [Repositories](https://github.com/Benji-Leboe?tab=repositories)
 
+### Table of Contents
+
+* [Week 1](/Week_1)
+    * [Day 1](/Week_1/Day_1)
