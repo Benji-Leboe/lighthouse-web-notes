@@ -1,9 +1,9 @@
-#Benji's Notes
+# Benji's Notes
 
-##Summary
+## Summary
 This README contains all notes taken by [Benji Leboe](https://github.com/Benji-Leboe) for the [Lighthouse Labs](https://lighthouselabs.ca/) Web Development course.
 
-###Quicklinks
+### Quicklinks
 
 - [Repositories](https://github.com/Benji-Leboe?tab=repositories)
 
